@@ -8,5 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
