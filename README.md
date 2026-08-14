@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0031-next-permutation) |
 | [0819-most-common-word](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0820-short-encoding-of-words) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Trie
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0242-valid-anagram) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0819-most-common-word) |
+## Queue
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0950-reveal-cards-in-increasing-order) |
+## Simulation
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
