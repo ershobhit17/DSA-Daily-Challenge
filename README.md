@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0820-short-encoding-of-words) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2047-number-of-valid-words-in-a-sentence) |
+| [2353-design-a-food-rating-system](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2353-design-a-food-rating-system) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0820-short-encoding-of-words) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2353-design-a-food-rating-system](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2353-design-a-food-rating-system) |
 ## Trie
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [0819-most-common-word](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0820-short-encoding-of-words) |
+| [2353-design-a-food-rating-system](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2353-design-a-food-rating-system) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0950-reveal-cards-in-increasing-order) |
+## Design
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2353-design-a-food-rating-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2353-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2353-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
