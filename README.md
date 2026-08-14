@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0344-reverse-string) |
 | [0819-most-common-word](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0820-short-encoding-of-words) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2047-number-of-valid-words-in-a-sentence) |
 ## Array
 |  |
@@ -23,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0031-next-permutation) |
 | [0819-most-common-word](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0820-short-encoding-of-words) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0014-longest-common-prefix) |
+| [0820-short-encoding-of-words](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0820-short-encoding-of-words) |
 ## String Matching
 |  |
 | ------- |
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [0819-most-common-word](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0820-short-encoding-of-words) |
 ## Sorting
 |  |
 | ------- |
