@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0441-arranging-coins](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0007-reverse-integer) |
+| [0441-arranging-coins](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0441-arranging-coins) |
 | [2396-strictly-palindromic-number](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
