@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0820-short-encoding-of-words) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2353-design-a-food-rating-system](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2353-design-a-food-rating-system) |
 ## Trie
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0007-reverse-integer) |
 | [0441-arranging-coins](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0441-arranging-coins) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2396-strictly-palindromic-number](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0005-longest-palindromic-substring) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2396-strictly-palindromic-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
