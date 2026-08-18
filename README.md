@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0344-reverse-string) |
+| [2396-strictly-palindromic-number](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0007-reverse-integer) |
+| [2396-strictly-palindromic-number](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0005-longest-palindromic-substring) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
