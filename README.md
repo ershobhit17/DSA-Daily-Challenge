@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0344-reverse-string) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0031-next-permutation) |
 | [0819-most-common-word](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0820-short-encoding-of-words) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Binary Search
