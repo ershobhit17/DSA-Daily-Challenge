@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0009-palindrome-number) |
 | [0441-arranging-coins](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0441-arranging-coins) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2396-strictly-palindromic-number](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2396-strictly-palindromic-number) |
