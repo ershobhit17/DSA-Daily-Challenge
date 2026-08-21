@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0036-valid-sudoku) |
 | [0819-most-common-word](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0820-short-encoding-of-words) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [0819-most-common-word](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0820-short-encoding-of-words) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
