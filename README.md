@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-short-encoding-of-words](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0820-short-encoding-of-words) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2353-design-a-food-rating-system](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2353-design-a-food-rating-system) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Array
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0441-arranging-coins) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2396-strictly-palindromic-number](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2396-strictly-palindromic-number) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Recursion
 |  |
 | ------- |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 <!---LeetCode Topics End-->
