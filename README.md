@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0344-reverse-string) |
+| [0922-sort-array-by-parity-ii](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0922-sort-array-by-parity-ii) |
 | [2396-strictly-palindromic-number](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0042-trapping-rain-water) |
 | [0819-most-common-word](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0820-short-encoding-of-words) |
+| [0922-sort-array-by-parity-ii](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2353-design-a-food-rating-system](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2353-design-a-food-rating-system) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0242-valid-anagram) |
+| [0922-sort-array-by-parity-ii](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Binary Search
 |  |
