@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0344-reverse-string) |
 | [2396-strictly-palindromic-number](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/2396-strictly-palindromic-number) |
 ## String
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0042-trapping-rain-water) |
 | [0819-most-common-word](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0820-short-encoding-of-words) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0042-trapping-rain-water) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Manacher
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -216,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ershobhit17/DSA-Daily-Challenge/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
